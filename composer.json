@@ -51,5 +51,10 @@
 	"autoload": {
 		"classmap": ["Nette/"],
 		"files": ["Nette/shortcuts.php"]
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "2.2.99-dev"
+		}
 	}
 }
